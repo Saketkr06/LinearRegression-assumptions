@@ -1,7 +1,7 @@
 # LinearRegression-assumptions
 
-Linear Relationship
-No MultiCollinearity
-Normality of residual or error
-Homoscedasticity(const variance)
-No AutoCorrelation of resuduals
+1.Linear Relationship
+2.No MultiCollinearity
+3.Normality of residual or error
+4.Homoscedasticity(const variance)
+5.No AutoCorrelation of resuduals
